@@ -1,0 +1,32 @@
+{
+  "key_rights": [
+    "Right to access information held by public authorities.",
+    "Right to ask for and receive information from any public authority.",
+    "Right to inspect government records, documents, memos, and emails.",
+    "Right to take notes, extracts, or certified copies of information.",
+    "Right to request information in electronic formats (e.g., diskettes, printouts).",
+    "Right to receive information within 30 days (or 48 hours if concerning life or liberty).",
+    "Right to appeal a denied request to a senior officer.",
+    "Right to appeal to the Information Commission if a request is denied."
+  ],
+  "important_provisions": [
+    "Promotes transparency and accountability in the working of all public authorities.",
+    "Aims to reduce corruption and ensure government agencies are answerable to the people.",
+    "Public Information Officers (PIOs) or Assistant PIOs are appointed in every government office.",
+    "PIOs must provide information within 30 days (or 48 hours for life/liberty matters).",
+    "Public authorities are obligated to proactively publish certain information online and in public.",
+    "Information can be denied if it affects national security, sovereignty, or integrity of India.",
+    "Information can be denied if it endangers someone's life or impedes investigations.",
+    "Information can be denied if it involves personal information that would be an unwarranted invasion of privacy (unless there's a larger public interest).",
+    "Information related to commercial confidence, trade secrets, or cabinet papers can be withheld under certain conditions.",
+    "Certain intelligence and security organizations are generally exempt, except for information related to human rights violations."
+  ],
+  "important_penalties": [
+    "A PIO can face a penalty of Rs. 250 per day (up to a maximum of Rs. 25,000) for failing to provide information on time, maliciously denying a request, giving incorrect/incomplete information, or obstructing the process.",
+    "The Central or State Information Commission can recommend disciplinary action against the defaulting officer."
+  ],
+  "who_can_benefit": [
+    "Ordinary citizens",
+    "An informed citizenry"
+  ]
+}
