@@ -15,7 +15,7 @@ with open(
     text = f.read()
 
 llm = ChatGoogleGenerativeAI(
-    model="gemini-3.5-flash",
+    model="gemini-3.1-flash-lite",
     temperature=0
 )
 
