@@ -1,0 +1,13 @@
+The Right to Information Act, 2005 (RTI Act) empowers ordinary citizens to access information held by public authorities.
+
+**Purpose:**
+The main purpose of the RTI Act is to promote transparency and accountability in the working of all public authorities. It aims to reduce corruption and ensure that governments and their agencies are answerable to the people, fostering an informed citizenry vital for a functioning democracy.
+
+**Your Rights:**
+As a citizen, you have the right to ask for and receive information from any public authority (government bodies, institutions substantially financed by the government). This includes inspecting government records, documents, memos, emails, and taking notes, extracts, or certified copies. You can also request information in electronic formats like diskettes or printouts. To get information, you apply to a Public Information Officer (PIO) or Assistant PIO appointed in every government office. They must provide the information within 30 days, or 48 hours if it concerns someone's life or liberty. Public authorities are also obligated to proactively publish certain information online and in public, reducing the need for individual requests.
+
+**Protections (When Information Can Be Denied):**
+The Act balances your right to know with other public interests. Information can be denied if it affects national security, sovereignty, or integrity of India, endangers someone's life, impedes investigations, or involves personal information that would be an unwarranted invasion of privacy (unless there's a larger public interest). Information related to commercial confidence, trade secrets, or cabinet papers can also be withheld under certain conditions. Certain intelligence and security organizations are generally exempt, except for information related to human rights violations.
+
+**Penalties:**
+If a PIO fails to provide information within the time limit, maliciously denies a request, gives incorrect or incomplete information, or obstructs the process, the Central or State Information Commission can impose a penalty of Rs. 250 per day, up to a maximum of Rs. 25,000. The Commission can also recommend disciplinary action against the officer. If your request is denied, you have the right to appeal to a senior officer, and then to the Information Commission.
